@@ -1,2 +1,3 @@
 # commun-imagecontents
-This repository is releated images
+
+Shared images used across my repositories' documentation.
